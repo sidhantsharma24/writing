@@ -1,0 +1,10 @@
+Vous écrivez à un(e) ami(e) qui veut suivre des cours de langue dans votre école. 
+Donnez-lui toutes les informations nécessaires pour l’aider à prendre sa décision 
+(emplacement, prix, types de cours disponible, etc.).
+
+Salut. J'espère que tu vas bien. À mon avis, c'est une excellent décision de suivre des cours de langue
+dans mon école. Pour la session d'été, l'école offre les cours de français, anglais, espagnol, ainsi qu'italien.
+Les cours durent pendant 52 semaines et coûtent environ $750. Il faut envoyer un courriel à abc@ecole.ca pour
+avoir plus d'informations. 
+Je te souhait une bonne journée!
+Sid
